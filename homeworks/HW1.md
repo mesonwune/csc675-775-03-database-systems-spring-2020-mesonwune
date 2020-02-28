@@ -1,3 +1,7 @@
+# Instructor Comments (ERD only)
+
+Your ERD is not correct. It needs to be redone completly for its final version. Too many ISA, and I cannot understand your diagram....
+
 # The Semantic-Conceptual Model 
 
 In this homework, students will learn to design a database system from a concept based on use cases, bussines rules (database requeriments), and Entity Relation Diagrams (ERD). 
