@@ -1,3 +1,12 @@
+# Grade
+
+```
+86/100
+```
+1. -2 Business Rules 
+2. -2 Missing cardinalities (registered, checkout, media)
+3. -10 Missing testing table
+
 # Instructor Comments (ERD only)
 
 Your ERD is not correct. It needs to be redone completly for its final version. Too many ISA, and I cannot understand your diagram....
