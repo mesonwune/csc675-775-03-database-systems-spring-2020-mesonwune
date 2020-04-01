@@ -45,8 +45,12 @@ SELECT
 From Media M, Book B
 Where M.mediaID = B.Media_mediaID;
 
+/*
 DELETE FROM Media
 WHERE title = '1984';
+*/
+
+
 
 
 
@@ -55,7 +59,19 @@ WHERE title = '1984';
 
 -- Business Rule 7: Registered users can be a child or adult account.  --
 
+
+
+
 -- Business Rule 8: Media is copyrighted by only one author.  --
+
+SELECT
+	M.title,
+	A.firstName,
+    A.lastName
+FROM Author A, Media M
+Where A.Media_mediaID = M.mediaID AND A.lastName IS NOT NULL;
+
+
 
 -- Business Rule 9: Registered users can search for media.  --
 
