@@ -8,8 +8,11 @@
 | Section                  | Completed     |
 | ------------------------ | ------------- |
 | Create user account      |  done   |
-| Signin         |  done   |
-| Indexing                 | not done yet  |
-| Course Project           | not done yet  |
+| Sign in         |  done   |
+| Menu - Search                 |  done   |
+| Menu - Insert           | not done yet  |
+| Menu - Update           |  done   |
+| Menu - Delete           | not done yet  |
+| Menu - Logout           |  done   |
 
 
