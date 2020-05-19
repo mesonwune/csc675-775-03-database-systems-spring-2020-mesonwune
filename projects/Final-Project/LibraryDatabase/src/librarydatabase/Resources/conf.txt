@@ -1,0 +1,6 @@
+dbHost = 127.0.0.1
+dbPort = 3306 database = LibrarySystemFinal
+dbUser = root 
+dbPassword = Meghan909!
+
+THESE ARE IN LIBRARYDATABASE.JAVA
